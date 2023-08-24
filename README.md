@@ -7,6 +7,7 @@
 
 <h1>👨‍💻 Java Objectives:</h1>
 <h2>🎯 Objective 1 - Read and write Java code containing dynamic memory allocation.</h2>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -28,6 +29,7 @@
 
 
 <h2>🎯 Objective 2 - Read and write recursive Java code.</h2>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -48,6 +50,7 @@
 
 
 <h2>🎯 Objective 3 - Use data abstraction & encapsulation to process stacks, queues, linked lists & binary trees</h2>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -70,6 +73,7 @@
 
 
 <h2>🎯 Objective 4 - Read, write and perform complexity analysis of sorts, searches, and other algorithms.</h2>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
