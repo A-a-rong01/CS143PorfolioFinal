@@ -1,9 +1,10 @@
 # CS143 Porfolio Final
 <img align="right" src="https://avatars.githubusercontent.com/u/138899922?v=4" alt="Profile Pic" width="200" height="200">
-<h1>Welcome, My name is Aaron and this is my porfolio for CS 143!<br/></h1>
+<img align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Profile Pic" width="135" height="220">
+<h1>Welcome this is my porfolio for CS 143!<br/></h1>
 
 
-<h1>🚀 Introduction</h1>
+<h1>🚀 Introduction:</h1>
 
 <h1>👨‍💻 Java Objectives:</h1>
 <h2>🎯 Objective 1 - Read and write Java code containing dynamic memory allocation.</h2>
@@ -90,8 +91,8 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h1>💭 Conclusion</h1>
-<h2>🔗 Refrences</h2>
+<h1>💭 Conclusion:</h1>
+<h2>🔗 Refrences:</h2>
 
 <h1> 🤳 Connect with me:</h1>
 <h2>
